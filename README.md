@@ -350,10 +350,3 @@ separators: ["\n\n", "\n", "。", "！", "？", "!", "?", " ", ""]
   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=lanlankk/-Langchain-RAG-&type=date&legend=top-left" />
 </picture>
 
-## 联系方式
-
-如有任何问题或建议，欢迎在 GitHub 提交 issues 或联系作者：
-
-- Email: <n3032747608@163.com>
-- QQ: 3032747608
-
