@@ -1,11 +1,11 @@
 # 🚀 RAG对话系统
 
 <div align="center">
-<a href="https://github.com/RMA-MUN/LangChain-RAG-FastAPI-Service/stargazers">
-  <img src="https://img.shields.io/github/stars/RMA-MUN/LangChain-RAG-FastAPI-Service?style=flat-square&label=Stars&color=orange" alt="Stars">
+<a href="https://github.com/lanlankk/-Langchain-RAG-/stargazers">
+  <img src="https://img.shields.io/github/stars/lanlankk/-Langchain-RAG-?style=flat-square&label=Stars&color=orange" alt="Stars">
 </a>
-<a href="https://github.com/RMA-MUN/LangChain-RAG-FastAPI-Service/network/members">
-  <img src="https://img.shields.io/github/forks/RMA-MUN/LangChain-RAG-FastAPI-Service?style=flat-square&label=Forks&color=green" alt="Forks">
+<a href="https://github.com/lanlankk/-Langchain-RAG-/network/members">
+  <img src="https://img.shields.io/github/forks/lanlankk/-Langchain-RAG-?style=flat-square&label=Forks&color=green" alt="Forks">
 </a>
   <img src="https://img.shields.io/badge/python-v3.12.4-blue.svg" alt="System">
 </div>
@@ -91,11 +91,11 @@ flowchart TD
 
 | 功能模块  | 界面展示                                               | 功能说明                        |
 | ----- | :------------------------------------------------- | --------------------------- |
-| AI 聊天 | !\[AI聊天界面]\(./images/aichat.png null)              | 基于 RAG 的智能问答界面，支持上下文对话和文档引用 |
-| 聊天管理  | !\[聊天管理界面]\(./images/chat\_manager.png null)       | 会话历史管理，支持会话列表查看和切换          |
-| 用户服务  | !\[用户服务界面]\(./images/user\_service.png null)       | 用户注册、登录和个人信息管理              |
-| 知识库管理 | !\[知识库管理页面]\(./images/knowledge\_manager.png null) | 文档上传、查看和管理知识库               |
-| 文档切片  | !\[文档切片]\(./images/text\_spliter.png null)         | 可视化文档切片详情，支持查看切片内容          |
+| AI 聊天 | !\[AI聊天界面]\(./images/aichat.png)              | 基于 RAG 的智能问答界面，支持上下文对话和文档引用 |
+| 聊天管理  | !\[聊天管理界面]\(./images/chat\_manager.png)       | 会话历史管理，支持会话列表查看和切换          |
+| 用户服务  | !\[用户服务界面]\(./images/user\_service.png)       | 用户注册、登录和个人信息管理              |
+| 知识库管理 | !\[知识库管理页面]\(./images/knowledge\_manager.png) | 文档上传、查看和管理知识库               |
+| 文档切片  | !\[文档切片]\(./images/text\_spliter.png)         | 可视化文档切片详情，支持查看切片内容          |
 
 > **提示**：点击图片可查看大图，所有界面均支持中英文切换
 
@@ -112,7 +112,7 @@ flowchart TD
 ### 克隆项目
 
 ```bash
-git clone https://github.com/RMA-MUN/LangChain-RAG-FastAPI-Service.git
+git clone https://github.com/lanlankk/-Langchain-RAG-.git
 cd LangChain-RAG-FastAPI-Service
 ```
 
@@ -345,9 +345,9 @@ separators: ["\n\n", "\n", "。", "！", "？", "!", "?", " ", ""]
 ## Star History
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=RMA-MUN/LangChain-RAG-FastAPI-Service&type=date&theme=dark&legend=top-left" />
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=RMA-MUN/LangChain-RAG-FastAPI-Service&type=date&legend=top-left" />
-  <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=RMA-MUN/LangChain-RAG-FastAPI-Service&type=date&legend=top-left" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=lanlankk/-Langchain-RAG-&type=date&theme=dark&legend=top-left" />
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=lanlankk/-Langchain-RAG-&type=date&legend=top-left" />
+  <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=lanlankk/-Langchain-RAG-&type=date&legend=top-left" />
 </picture>
 
 ## 联系方式
